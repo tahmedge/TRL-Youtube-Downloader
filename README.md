@@ -2,12 +2,16 @@
 
 Download Audios and Videos from Youtube.
 
-This software has used Youtube Extractor from Nuget to extract video information from youtube.
+This software has used [Youtube Extractor](https://www.nuget.org/packages/YoutubeExtractor) from Nuget to extract video information from youtube.
 
 You need to install Nuget in your computer to use the package Youtube Extractor.
 
-C# Background Worker downloader is also used to download the videos.
+C# Background Worker downloader is used to download the videos and audios.
 
-For any query, contact me at tahmid.iut@outlook.com .
+It is extremely fast to download audios and videos in Youtube.
 
-[Absolute README link](https://github.com/username/repo/blob/branch/docs/more_words.md)
+No ad-ons, no disturbing links, download videos and audios from youtube at fastest download speed!
+
+For any query, contact me at [Tahmid Rahman](https://www.facebook.com/tahmid.iut) or email me at tahmid.iut@outlook.com.
+
+
