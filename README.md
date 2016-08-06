@@ -8,7 +8,7 @@ You need to install Nuget in your computer to use the package Youtube Extractor.
 
 C# Background Worker downloader is used to download the videos and audios.
 
-It is extremely fast to download audios and videos in Youtube.
+TRL Youtube Downloader is extremely fast to download audios and videos from Youtube.
 
 No ad-ons, no disturbing links, download videos and audios from youtube at fastest download speed!
 
