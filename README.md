@@ -2,9 +2,9 @@
 
 Download Audios and Videos from Youtube.
 
-This software has used Youtube Extractor from Nuget to extra video information from youtube.
+This software has used Youtube Extractor from Nuget to extract video information from youtube.
 
-You need to install Nuget in your computer.
+You need to install Nuget in your computer to use the package Youtube Extractor.
 
 C# Background Worker downloader is also used to download the videos.
 
