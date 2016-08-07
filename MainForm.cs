@@ -17,7 +17,7 @@ namespace YoutubeDownloaderWindowsForm
     {
         static int flag = 1;
         public static int messagebox = 1;
-        int res = 360;
+        int res = 360; //video resolution
         string S;
         private BackgroundWorker bw = new BackgroundWorker();
         public MainForm()
